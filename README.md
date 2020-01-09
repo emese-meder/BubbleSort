@@ -2,7 +2,7 @@
 Java project implementing different array sorting and array merging methods
 
 
-**Projects includes:**
+**Project includes:**
 
 
 A class with a method implementing a way to sort the elements of a random length integer array into ascending order with Bubble Sort.
