@@ -14,15 +14,15 @@ A class with a method implementing a way to sort the elements of a random length
 
 ### SortedMerger
 
-A class with a method implementing a way to merge two sorted arrays into one combined sorted array. 
+A class with a method implementing a way to merge two sorted arrays into one combined sorted array (ascending). 
 
 ### DivideAndMerge
 
-A class with a method implementing a way to divide up an unsorted array into one element sub array and then use the SortedMerger to merge them int a single sorted array (divide and conquer method). Ascendign + descending
+A class with a method implementing a way to divide up an unsorted array into one element sub array and then use the SortedMerger to merge them into a single sorted array in ascending order (divide and conquer method). 
 
 ### BinaryTree
 
-Consists of a class called BinaryTreeImpl that implements the BinaryTree interface to sort an array of int by first puting them into a binary tree and then going through the tree to sort them, and a class called Node that sets up the methods needed for building the binaryTree structure. . 
+Consists of a class called BinaryTreeImpl that implements the BinaryTree interface to sort an array of ints by first puting them into a binary tree and then going through the tree to sort them, and a class called Node that sets up the methods and variables needed for building the binaryTree structure. Ascendign + descending.
 
 ### Main
 
