@@ -6,7 +6,7 @@ Java project implementing different array sorting methods
 
 ### SwapNumber
 
-A class that implements a method to swap two numbers, later to be used in sorting algorithms.
+A class that implements a method to swap an element in an array with the next element later to be used in bubbleSort
 
 ### BubbleSort: 
 
