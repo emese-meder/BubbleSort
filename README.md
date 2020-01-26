@@ -1,10 +1,10 @@
-# BubbleSort
+# SortManager
 Java project implementing different array sorting methods
 
 
-## **Project includes:**
+**Project includes:**
 
-###SwapNumber
+### SwapNumber
 
 A class that implements a method to swap two numbers, later to be used in sorting algorithms.
 
