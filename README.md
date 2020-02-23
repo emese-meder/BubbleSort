@@ -1,8 +1,17 @@
 # SortManager
-Java project implementing different array sorting methods
+Java project implementing different array sorting methods using an MVC architecture. 
 
 
 **Project includes:**
+
+
+### App
+
+A class that contains the main method and this is where the user can input their sort type and arrays into pre-made methods that give back the sorted and/or merged arrays. 
+
+### UserInput
+
+A class that includes the implementation of the sortArray method that takes parameters from the user.
 
 ### SwapNumber
 
@@ -24,7 +33,10 @@ A class with a method implementing a way to divide up an unsorted array into one
 
 Consists of a class called BinaryTreeImpl that implements the BinaryTree interface to sort an array of ints by first puting them into a binary tree and then going through the tree to sort them, and a class called Node that sets up the methods and variables needed for building the binaryTree structure. Ascendign + descending.
 
-### Main
 
-A Main class that uses the above methods for a couple of example cases. 
+### ManualTests
+
+A class that uses the above methods for a couple of example cases I have used to manually test them while I was working on it.
+
+
 
