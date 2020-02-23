@@ -5,13 +5,15 @@ Java project implementing different array sorting methods using an MVC architect
 **Project includes:**
 
 
-### App
+### App (view)
 
 A class that contains the main method and this is where the user can input their sort type and arrays into pre-made methods that give back the sorted and/or merged arrays. 
 
-### UserInput
+### UserInput (controller)
 
 A class that includes the implementation of the sortArray method that takes parameters from the user.
+
+### Logic of the sorts (model):
 
 ### SwapNumber
 
@@ -33,6 +35,7 @@ A class with a method implementing a way to divide up an unsorted array into one
 
 Consists of a class called BinaryTreeImpl that implements the BinaryTree interface to sort an array of ints by first puting them into a binary tree and then going through the tree to sort them, and a class called Node that sets up the methods and variables needed for building the binaryTree structure. Ascendign + descending.
 
+### Other (not MVC) 
 
 ### ManualTests
 
