@@ -2,8 +2,9 @@ package sparta.em.engineering50.javabasics;
 
 import java.util.Arrays;
 
-public class Main {
-    public static void main(String[] args) {
+//this class includes some example of using the methods:
+public class ManualTests {
+    public static void manualTests(String[] args) {
 
         //Bubble sort:
         int[] intArray = new int[]{2, 1, 4, -9, 4, 9, 3};
